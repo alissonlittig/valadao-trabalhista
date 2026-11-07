@@ -1,3 +1,5 @@
+@font-face{font-family:'Inter Variable';font-style:normal;font-display:swap;font-weight:100 900;src:url(./fonts/inter-latin-wght-normal.woff2) format('woff2-variations')}
+@font-face{font-family:'Fraunces Variable';font-style:normal;font-display:swap;font-weight:100 900;src:url(./fonts/fraunces-latin-wght-normal.woff2) format('woff2-variations')}
 :root{--papel:#f7f2e8;--papel2:#efe7d6;--tinta:#1d1a17;--mudo:#5d564d;--vinho:#511b25;--vinho2:#3a1219;--latao:#a8803a;--linha:#d9cfba;--ok:#2f5d3f;--no:#9a2f2f;--r:14px;--serif:'Fraunces Variable',Georgia,serif;--sans:'Inter Variable',system-ui,sans-serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:76px}
 body{margin:0;background:var(--papel);color:var(--tinta);font:16px/1.6 var(--sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
